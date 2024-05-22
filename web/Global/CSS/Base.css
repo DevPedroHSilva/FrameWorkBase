@@ -1,0 +1,11 @@
+﻿body {
+    padding:0;
+}
+
+.campo-pesquisa-padrao {
+    width: 100%;
+    max-width: 400px;
+    padding: .5rem .3rem;
+    border-radius: .4rem;
+    border: solid 1px #ccc;
+}
